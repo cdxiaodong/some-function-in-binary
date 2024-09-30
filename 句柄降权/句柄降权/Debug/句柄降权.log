@@ -1,0 +1,4 @@
+﻿  句柄降权.cpp
+D:\vs\repos\句柄降权\句柄降权\句柄降权.cpp(45,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\vs\repos\句柄降权\句柄降权\句柄降权.cpp(60,23): warning C4018: “<”: 有符号/无符号不匹配
+  句柄降权.vcxproj -> D:\vs\repos\句柄降权\Debug\句柄降权.exe

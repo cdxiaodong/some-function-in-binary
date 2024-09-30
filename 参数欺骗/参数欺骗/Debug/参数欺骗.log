@@ -1,0 +1,8 @@
+﻿  ProcessHollowing.h
+  参数欺骗.cpp
+  正在生成代码...
+参数欺骗.obj : error LNK2019: 无法解析的外部符号 "protected: int __thiscall Tools::FileExists(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?FileExists@Tools@@IAEHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)，函数 "public: __thiscall ProcessHollowing::ProcessHollowing(void)" (??0ProcessHollowing@@QAE@XZ) 中引用了该符号
+参数欺骗.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall Tools::Tools(void)" (??0Tools@@QAE@XZ)，函数 "public: __thiscall ProcessHollowing::ProcessHollowing(void)" (??0ProcessHollowing@@QAE@XZ) 中引用了该符号
+参数欺骗.obj : error LNK2019: 无法解析的外部符号 "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall Tools::decode(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?decode@Tools@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V23@@Z)，函数 "public: __thiscall ProcessHollowing::ProcessHollowing(void)" (??0ProcessHollowing@@QAE@XZ) 中引用了该符号
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+D:\vs\repos\参数欺骗\Debug\参数欺骗.exe : fatal error LNK1120: 4 个无法解析的外部命令

@@ -1,0 +1,6 @@
+﻿  自己写程序把 PE 这些结构体都打印出来.c
+C:\Users\e'e't\source\repos\自己写程序把 PE 这些结构体都打印出来\自己写程序把 PE 这些结构体都打印出来\自己写程序把 PE 这些结构体都打印出来.c(23,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\e'e't\source\repos\自己写程序把 PE 这些结构体都打印出来\自己写程序把 PE 这些结构体都打印出来\自己写程序把 PE 这些结构体都打印出来.c(66,27): warning C4129: “P”: 不可识别的字符转义序列
+C:\Users\e'e't\source\repos\自己写程序把 PE 这些结构体都打印出来\自己写程序把 PE 这些结构体都打印出来\自己写程序把 PE 这些结构体都打印出来.c(66,27): warning C4129: “N”: 不可识别的字符转义序列
+C:\Users\e'e't\source\repos\自己写程序把 PE 这些结构体都打印出来\自己写程序把 PE 这些结构体都打印出来\自己写程序把 PE 这些结构体都打印出来.c(66,27): warning C4129: “l”: 不可识别的字符转义序列
+C:\Users\e'e't\source\repos\自己写程序把 PE 这些结构体都打印出来\自己写程序把 PE 这些结构体都打印出来\自己写程序把 PE 这些结构体都打印出来.c(117,10): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“”
